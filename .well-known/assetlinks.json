@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.notatniksyntez.twa",
+      "sha256_cert_fingerprints": [
+        "B8:D9:54:6A:41:4A:0C:18:11:B4:80:9D:D6:0F:74:CD:A8:79:36:8B:44:B3:22:06:8E:E4:DB:7F:95:45:14:BE",
+        "CC:B2:68:2F:CF:3C:7E:FD:7A:5F:6C:99:B2:39:14:69:FB:58:80:2F:3B:1E:E6:B4:1A:29:E5:0B:7C:74:09:26"
+      ]
+    }
+  }
+]
